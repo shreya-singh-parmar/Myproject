@@ -1,3 +1,3 @@
 # Myproject
 ### `Click here for Live Demo`
-https://shreya-singh-parmar.github.io/Myproject/Home.html
+https://shreya-singh-parmar.github.io/iCoder-Website/Home.html
